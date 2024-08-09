@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Post number 1",
+        "content": "This is a content for post 1",
+        "date_created": "07/05/2024"
+    },
+    {
+        "title": "Post number 2",
+        "content": "This is a content for post 2",
+        "date_created": "08/06/2024"
+    },
+    {
+        "title": "Post number 3",
+        "content": "This is a content for post 3"
+    },
+    {
+        "title": "Post number 4",
+        "content": "This is a content for post 4",
+        "date_created": "06/05/2023"
+    },
+    {
+        "title": "Post number 5",
+        "content": "This is a content for post 5"
+    }
+]

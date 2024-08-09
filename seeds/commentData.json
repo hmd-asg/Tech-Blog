@@ -1,0 +1,42 @@
+[
+    {
+        "description": "This is going to be comment numer one",
+        "post_id": 1
+    },
+    {
+        "description": "This is going to be comment numer two",
+        "post_id": 2
+    },
+    {
+        "description": "This is going to be comment numer three",
+        "post_id": 1
+    },
+    {
+        "description": "This is going to be comment numer four",
+        "post_id": 1
+    },
+    {
+        "description": "This is going to be comment numer five",
+        "post_id": 2
+    },
+    {
+        "description": "This is going to be comment numer six",
+        "post_id": 3
+    },
+    {
+        "description": "This is going to be comment numer seven",
+        "post_id": 2
+    },
+    {
+        "description": "This is going to be comment numer eight",
+        "post_id": 3
+    },
+    {
+        "description": "This is going to be comment numer nine",
+        "post_id": 1
+    },
+    {
+        "description": "This is going to be comment numer ten",
+        "post_id": 1
+    }
+]
